@@ -1,22 +1,3 @@
-
-
-
-
-
-
-
-Make youtube API (Google Cloud Console, and then enable youtube APi services)
-Github repository
-Make app on streamlit
-Go to streamlit cloud
-Sign In
-Launch your app
-
-
-Code:
-
-
-
 import streamlit as st
 
 import requests
@@ -26,7 +7,7 @@ from datetime import datetime, timedelta
 
 # YouTube API Key
 
-API_KEY = "Enter your API Key here"
+API_KEY = "AIzaSyBmowEzxvxsZtBFFc-R14uym8CAS5BwFRY"
 
 YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
 
